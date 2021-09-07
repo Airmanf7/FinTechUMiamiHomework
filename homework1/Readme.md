@@ -6,6 +6,8 @@
 
 ### Name of business: Terra
 
+#### Project within Terra: TerraUSD
+
 ### Website: terra.money
 
 <p>The company was founded in January 2018. Terra also consists of a group of businesses including Terraform Labs which was the original entity that supports Terra.money. Terraform labs exists to provide research and supports investment into startup businesses that wish to work with Terra. Other business modules include Anchor which is the platform to deposit and borrow the stablecoin token UST.
@@ -59,7 +61,7 @@
  * This protocol combines features of Venus.io and Nexo.io in that it is primarily a platform to deposit, earn and borrower crypto assets. It is based on the Ethereum blockchain. AAVE.com has several competitive advantages over its peers. It offers users the ability to switch between fixed and variable interest rates at will. It also offers many tokens to deposit and borrow. The amount in token that users can borrow is based on the characteristics of that token. For example, users will be able to borrower more against their stable coin than against a crypto coin that is more volitile. Users have the ability to buy the governance token, AAVE and stake them to the protocol. When staked, users cannot withdraw them unless they first unstake them. Users with staked AAVE tokens earn rewards paid in AAVE. The rewards come from trading fees and interest paid by borrowers.  If a liquidation event occurs some AAVE is burned to cover the loss. AAVE.com is a decentralized platform and only requires users to connect their crypto wallet to interact with the protocol.
  
  **Uniswap.org**
-  * This protocol is one of the earliest of its kind - a decentralized platform to swap crypto tokens, provide liquidity and earn a share of the trading fees in return. It is built on the Ethereum network. Users spend Ethereum tokens to swap a crypto coin to a differrent coin. Liquidity provders deposit their coins into a pool and their rewards are based on their share of the pool. According to their website, info.uniswap.org, the total value locked as of September 7, 2021 is $2.71 billion and in the last 24 hours trading volume was $2.16 billion.
+  * This protocol is one of the earliest of its kind - a decentralized platform to swap crypto tokens, provide liquidity and earn a share of the trading fees in return. It is built on the Ethereum network. Users spend Ethereum tokens to swap a crypto coin to a differrent coin. Liquidity provders deposit their coins into a pool and their rewards are based on their share of the pool. According to their website, info.uniswap.org, the total value locked as of September 7, 2021 is $2.71 billion and in the last 24 hours trading volume was $2.16 billion. According to CoinGecko.com their current market capitalization as of September 2, 2021 is $12.9 billion. Uniswap.org is known for being a popular protocoll to fork. New protocols can perform a fork and use a lot of the digital infrastructure from the UniSwap code to create a new protocol that may offer different features or improve upon those that already exist.
 
 
 ## Results
