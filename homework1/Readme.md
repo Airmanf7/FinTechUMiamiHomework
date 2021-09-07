@@ -74,11 +74,11 @@
 
 <p>Main core metrics include the following:
  
-*Market Capitalization
-*Market Share
-*Trading Volume
+* Market Capitalization
+* Market Share
+* Trading Volume
  
-<p>According to Coingecko.com, currently TerraUSD has a market capitalization of $2.4 billion, a market share of 2.05% among stable coins denominated in fiat US dollars and a daily trading volume range in August 2021 of $22 million as a low and $180 million as the high. This is up from January 2021, when market capitalization was $268 milliion, a market share of 0.74% among stable coins denominated in fiat US dollars and a daily trading volume range of $7 million as a low at the beginning of the month of January 2021 and $55 million as the high by the end of the month.
+<p>According to Coingecko.com, as of September 7, 2021 TerraUSD has a market capitalization of $2.4 billion, a market share of 2.05% among stable coins denominated in fiat US dollars and a daily trading volume range in August 2021 of $22 million as a low and $180 million as the high. This is up from January 2021, when market capitalization was $268 milliion, a market share of 0.74% among stable coins denominated in fiat US dollars and a daily trading volume range of $7 million as a low at the beginning of the month of January 2021 and $55 million as the high by the end of the month.
 
 <p>Among stable coin competitos TerraUSD is in the top 7 in terms of core metrics, but consistently ranked 5th. However, in 2020 the top ranked stable coin was Tether which enjoyed a market share of 74% as of YE 2020. Its competitors such as USDC, DAI, BUSD and TerraUSD have all been experiencing an increase in these core metrics along side eachother resulting in Tether losing market share. This can indicate that over time market share will even out and those coins and companies that offer valuable and unique features should remain even though the asset may be seen as fungible. The value TerraUSD should continue to focus on offering is strong stability, scalability, valuable features, attractiveness to developers, ease of use and wisespread public adoption.
  
