@@ -69,11 +69,10 @@
 *Market Share
 *Trading Volume
  
-<p>According to Coingecko.com, currently TerraUSD has a market capitalization of $2.4 billion, a market share of 2.05% among stable coins and a daily trading volume range in August 2021 of $22 million as a low and $180 million as the high. This is up from January 2021, when market capitalization was 
+<p>According to Coingecko.com, currently TerraUSD has a market capitalization of $2.4 billion, a market share of 2.05% among stable coins and a daily trading volume range in August 2021 of $22 million as a low and $180 million as the high. This is up from January 2021, when market capitalization was $268 milliion, a market share of 0.74% among stable coins and a daily trading volume range of $7 million as a low at the beginning of the month of January 2021 and $55 million as the high by the end of the month.
 
-* How is your company performing relative to competitors in the same domain?
-​
-​
+<p>Among stable coin competitos TerraUSD is in the top 7 in terms of core metrics, but consistently ranked 5th at any given time. However, in 2020 the top ranked stable coin was Tether with enjoyed a market share of 74% as of YE 2020. Its competitors such as USDC, DAI, BUSD and TerraUSD have all been experiencing an increase in these core metrics along side eachother resulting in Tether losing market share. This can indicate that over time market share will even out and those coins and companies that offer valuable and unique features should remain even though the asset may be seen as fungible. The value TerraUSD should continue to focus on offering is strong stability, scalability, valuable features, attractiveness to developers, ease of use and wisespread public adoption.
+ 
 ## Recommendations
  
  <P>Terra should look at its competiros across all chains and mirror the unique features that make each stand out. They should also incentivize developers the specifically target those unique features and being them to the Terra eco system. This could be done with targeted marketing and special reward incentives for specific projects. This will combine market driven competitiion with guideance from Terra to drive innovations they would like to provide for their users.
@@ -92,7 +91,7 @@
    
  **Consider additional marketing strategies and advertisement to gain market share**
    
-   * It appears TerraUSD does not have a strong presence on Facebook and low interaction on Twitter. They should use those and other social media platforms to gain attention and drive more adoption of their products. The benefits to higher market share are the attraction not only of customers, but talent in the form of employees and third party developers. Considering the amount of data publicly available programs to search for people to direct target marketing campaigns would have a high amount of utility. Also, 
+   * It appears TerraUSD does not have a strong presence on Facebook and low interaction on Twitter. They should use those and other social media platforms to gain attention and drive more adoption of their products. The benefits to higher market share are the attraction not only of customers, but talent in the form of employees and third party developers. Considering the amount of data publicly available programs to search for people to direct target marketing campaigns would have a high amount of utility. Also, educational forums will always attract people seeking to learn new information and gain new skills. They should hold events, both virutally and in person to increase their visibility in the maretplace. 
 
 
 * What technologies would this additional product or service utilize?
