@@ -57,6 +57,9 @@
  
 **AAVE.com**
  * This protocol combines features of Venus.io and Nexo.io in that it is primarily a platform to deposit, earn and borrower crypto assets. It is based on the Ethereum blockchain. AAVE.com has several competitive advantages over its peers. It offers users the ability to switch between fixed and variable interest rates at will. It also offers many tokens to deposit and borrow. The amount in token that users can borrow is based on the characteristics of that token. For example, users will be able to borrower more against their stable coin than against a crypto coin that is more volitile. Users have the ability to buy the governance token, AAVE and stake them to the protocol. When staked, users cannot withdraw them unless they first unstake them. Users with staked AAVE tokens earn rewards paid in AAVE. The rewards come from trading fees and interest paid by borrowers.  If a liquidation event occurs some AAVE is burned to cover the loss. AAVE.com is a decentralized platform and only requires users to connect their crypto wallet to interact with the protocol.
+ 
+ **Uniswap.org**
+  * This protocol is one of the earliest of its kind - a decentralized platform to swap crypto tokens, provide liquidity and earn a share of the trading fees in return. It is built on the Ethereum network. Users spend Ethereum tokens to swap a crypto coin to a differrent coin. Liquidity provders deposit their coins into a pool and their rewards are based on their share of the pool. According to their website, info.uniswap.org, the total value locked as of September 7, 2021 is $2.71 billion and in the last 24 hours trading volume was $2.16 billion.
 
 
 ## Results
@@ -77,7 +80,7 @@
  
  <P>Terra should look at its competiros across all chains and mirror the unique features that make each stand out. They should also incentivize developers the specifically target those unique features and being them to the Terra eco system. This could be done with targeted marketing and special reward incentives for specific projects. This will combine market driven competitiion with guideance from Terra to drive innovations they would like to provide for their users.
   
-  <p>Specific recommendations include the following
+ <p>Specific recommendations include the following
 
 **Offer a stable borrowing rate product, similar to that offered by AAVE.com.**
  
@@ -94,9 +97,6 @@
    * It appears TerraUSD does not have a strong presence on Facebook and low interaction on Twitter. They should use those and other social media platforms to gain attention and drive more adoption of their products. The benefits to higher market share are the attraction not only of customers, but talent in the form of employees and third party developers. Considering the amount of data publicly available programs to search for people to direct target marketing campaigns would have a high amount of utility. Also, educational forums will always attract people seeking to learn new information and gain new skills. They should hold events, both virutally and in person to increase their visibility in the maretplace. 
 
 
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
 
 
 # Sources Used
@@ -130,6 +130,8 @@ https://money.usnews.com/investing/articles/the-history-of-bitcoin
 https://cryptobriefing.com/latest-tether-report-says-usdt-is-10-backed-by-cash/
  
 https://nexo.io/borrow
+   
+https://info.uniswap.org/#/
 
 
 
