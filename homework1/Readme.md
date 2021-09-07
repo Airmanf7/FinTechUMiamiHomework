@@ -39,7 +39,9 @@
 <p>The intended TerraUSD customers are both individuals seeking a crypto backed stable coin and developers seeking to build applications that use the token. One of the biggest developers is a payment processing app called CHAI which is used in digital payment transactions primarily in the South Korean market. The company charges a 3.0% fee for each transaction, similar to US based companies such as PayPal and CashApp. The market size and customer base is likely to continue to grow as the need to have secure transactions in a stable currency is an import factor in any successful economy. 
  
 
-<p>Terra is using blockchain technology and their eco system is based on their Terra blockchain they built. They also use automatic balancing algorithims to maintain the price of their stable coins. This is done by either increasing the supply of the governance token, LUNA, or decreasing it by burning LUNA to maintin the peg to the fiat currency. This is achieved using a mechanism called a TerraSDR which stands for Terra Special Drawing Rights. When the protocol detects a deviation from its peg the supply of LUNA is either expanded or contracted. For example, an opportunity for arbitrage is created when 1 TerraSDR = 0.9 SDR. This would occur if the supply of LUNA was expanded The arbitrageur can trade TerraSDR for 1 SDR worth of LUNA. This will push the price of LUNA higher and evenutally stabalize as the arbitrage opportunity no longer exists. They also employ a user friendly website with clear desctiptions to the different modules and ease of connectivity. Users have the option of connecting via a digital wallet, Terra Station, or a hardware wallet, like the Ledger Nano.
+<p>Terra uses blockchain technology and their eco system is based on their Terra blockchain they built. They also use automatic balancing algorithims to maintain the price of their stable coins. This is done by either increasing the supply of the governance token, LUNA, or decreasing it by burning LUNA to maintin the peg to the fiat currency. This is achieved using a mechanism called a TerraSDR which stands for Terra Special Drawing Rights. When the protocol detects a deviation from its peg the supply of LUNA is either expanded or contracted. For example, an opportunity for arbitrage is created when 1 TerraUSD = 0.9 USD. The arbitrageur can earn risk-free profit by trading TerraUSD for 1 USD's worth of LUNA as opposed to using USD to obtain the LUNA from the open market. 
+ 
+<p>They also employ a user friendly website with clear desctiptions to the different modules and ease of connectivity. Users have the option of connecting via a digital wallet, Terra Station, or a hardware wallet, like the Ledger Nano.
  
 
 ## Landscape:
@@ -140,5 +142,7 @@ https://info.uniswap.org/#/
 https://www.investopedia.com/
 
 https://www.certik.org/projects/terra
+  
+https://www.imf.org/en/Topics/special-drawing-right
 
 
