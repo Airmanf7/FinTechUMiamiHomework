@@ -30,51 +30,73 @@
 
 ## Business Activities:
 
-* Terra is seeking to allow users to have confidence in a stable crypto coin entirely based on a crypto token. This differs from other stable coins which back their stable crypto coin with fiat and other traditional financial instruments. A stable coin backed by crypto could be seen as more transparent as the backing instruments are more transparent as they reside on the blockchain. The contrast is a coin such as Tether (USDT) which has claimed to be backed by 50% fiat, but reports have indicated this figure may be as low as 10%. They have drawn criticism as recently as May and June 2021 questioning the validity of these figures. Tether has promised a full audit will be coming soon.
+<p>Terra is seeking to allow users to have confidence in a stable crypto coin entirely based on a crypto token. This differs from other stable coins which back their stable crypto coin with fiat and other traditional financial instruments. A stable coin backed by crypto could be seen as more transparent as the backing instruments are more transparent as they reside on the blockchain. The contrast is a coin such as Tether (USDT) which has claimed to be backed by 50% fiat, but reports have indicated this figure may be as low as 10%. They have drawn criticism as recently as May and June 2021 questioning the validity of these figures. Tether has promised a full audit will be coming soon.
 
-* The intended customer is both individuals seeking a crypto backed stable coin and developers seeking to develop applications that use the token toprimarily  facilitate marketplace transactions. One of the biggest developers is a payment processing app called CHAI which is used in digital payment transactions primarily in the South Korean market. the company charges a 3% fee for each transaction similar to US based companies such as PayPal and CashApp. The market size and customer base is likely to continue to grow as the need to have secure transactions in a stable currency is an import factor in any economy. 
+<p>The intended customer is both individuals seeking a crypto backed stable coin and developers seeking to develop applications that use the token toprimarily  facilitate marketplace transactions. One of the biggest developers is a payment processing app called CHAI which is used in digital payment transactions primarily in the South Korean market. the company charges a 3% fee for each transaction similar to US based companies such as PayPal and CashApp. The market size and customer base is likely to continue to grow as the need to have secure transactions in a stable currency is an import factor in any economy. 
  
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+<p>They are using blockchain technology as their eco system is based on their Terra blockchain they built. They also use auto balancing algorithims to maintain the price of their stable coins. This is done by either increasing the supply of the governance token, LUNA, or decreasing it by burning LUNA to maintin the peg to the fiat currency.
  
 
 ## Landscape:
 
-* They are primarily participating in the peer to peer transaction processing and peer to business transaction processing. They also encourage developers to build new decentralized apps (Dapps) that take advantage of their blockchain ecosystem.
+<p>They are primarily participating in the peer to peer transaction processing and peer to business transaction processing. They also encourage developers to build new decentralized apps (Dapps) that take advantage of their blockchain ecosystem.
 
 <p>This domain is relatively new, but decentralized finance continues to be a major trend in the industry. A good indicator comes from the website CoinGecko.com which tracks many different metrics on thousands of crypto coins. As of Septemter 2018 Coingecko was tracking 2 stable coins, Tether and TrueUSD with market capitalizations of $2.7 billiion and $72 million, respectively. Tether has maintained its position as the top stable coin by market cap since inception. As of September 2021 CoinGecko is tracking 61 stable coins and the combined market cap is $122 billion in USD. 
 
 ## Other major competitors include Venus.io, CoinBase.com, Nexo.io, AAVE.com and UniSwap.org.
  
 **Venus.io** 
- * This protocol was built on the Binance Smart Chain (BSC) and allows users to supply collateral, earn interest and borrower crypto tokens against the supplied collateral. All interest rates are floating and regulated by an algorithim driven by supply and demand. Individuals can deposit a stable coin, USDC for example, and recieve an equal amount of vUSDC in return which represents the deposit. When the individual wants to redeem their USDC they had in their vUSDC to the protocol and recieve their original deposit plus accumulated interest in return.
+ * This protocol was built on the Binance Smart Chain (BSC) and allows users to supply collateral, earn interest and borrower crypto tokens against the supplied collateral. All interest rates are floating and regulated by an algorithim driven by supply and demand. Individuals can deposit a stable coin, USDC for example, and recieve an equal amount of vUSDC in return which represents the deposit. When the individual wants to redeem their USDC they had in their vUSDC to the protocol and recieve their original deposit plus accumulated interest in return. Venus.io is a decentralized platform and only requires users to connect their crypto wallet to interact with the protocol.
  
 **Coinbase.com**
- * This business is based on the Ethereum block chain and was an early entrant into the retail crypto exchange industry. They offer a user friendly experience to buy, sell and convert crypto based assets. They also provide educational materials for users to learn about the utility of different crypto projects that have their native coin listed on CoinBase. They also officer CoinBasePro which offers lower trading fees, more charting options and more investment products than CoinBase.com. CoinBase Pro is intended for the advanced investor. 
+ * This business is based on the Ethereum block chain and was an early entrant into the retail crypto exchange industry. They offer a user friendly experience to buy, sell and convert crypto based assets. They also provide educational materials for users to learn about the utility of different crypto projects that have their native coin listed on CoinBase. They also officer CoinBasePro which offers lower trading fees, more charting options and more investment products than CoinBase.com. CoinBase Pro is intended for the advanced investor. Coinbase.com is a centralized exchange. All new users must complete identity verification steps in order to interact with the exchange.
  
 **Nexo.io**
- * This protocol is based in Switzerland and also based on the Ethereum blockchain. 
+ * This protocol is based in Switzerland and also based on the Ethereum blockchain. Its primary product is allowing users to deposit, earn interest and borrow against their supplied collateral. One of their competitive advantages is allowing users to borrower up to 90% of a deposited stable coin balance. They also offer fixed interest rates and flexible repayment terms. Users can make periodic payments, but are not required to follow a fixed payment schedule. If the borrowed balance exceeds the maximum LTV limit the borrower faces automatic liquidation and additional fees to bring the balance back in line. Nexo.io incentivizes users to hold their native token, NEXO, by offering lower borrowing rates based on the amount in tokens held. They are working on releasing a crypto based credit card. Similar to Coinbase.com, Nexo.io is a centralized exchange. All new users must complete identity verification steps in order to interact with the exchange.
  
-*AAVE.com
-​
-​
+**AAVE.com**
+ * This protocol combines features of Venus.io and Nexo.io in that it is primarily a platform to deposit, earn and borrower crypto assets. It is based on the Ethereum blockchain. AAVE.com has several competitive advantages over its peers. It offers users the ability to switch between fixed and variable interest rates at will. It also offers many tokens to deposit and borrow. The amount in token that users can borrow is based on the characteristics of that token. For example, users will be able to borrower more against their stable coin than against a crypto coin that is more volitile. Users have the ability to buy the governance token, AAVE and stake them to the protocol. When staked, users cannot withdraw them unless they first unstake them. Users with staked AAVE tokens earn rewards paid in AAVE. The rewards come from trading fees and interest paid by borrowers.  If a liquidation event occurs some AAVE is burned to cover the loss. AAVE.com is a decentralized platform and only requires users to connect their crypto wallet to interact with the protocol.
+
+
 ## Results
-​
-* What has been the business impact of this company so far?
-​
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-​
+
+<p> According to their documentation they now have more than 2 million unique users and $1 billion in transaction volume per year. They are well positioned to attract new investors, developers and individual customers. They have been mentioned in oneline financial outlets such as Yahoo! Finance and Bloomberg. Growth strategies include TerraForm Capital which provides fiancnail backing for project that want to build on their blockchain and TerraBridge which is a mechanism for sending a crypto token coss chain. An example might be purchasing USDC on the Terra chain and using TerraBridge to send it to a BinanceSmart Chain wallet. They envision the industry continuing to move toward an increased ease of cross chain networking such that it becomes essentially seamless.
+
+<p>Main core metrics include the following:
+ 
+*Market Capitalization
+*Market Share
+*Trading Volume
+ 
+<p>According to Coingecko.com, currently TerraUSD has a market capitalization of $2.4 billion, a market share of 2.05% among stable coins and a daily trading volume range in August 2021 of $22 million as a low and $180 million as the high. This is up from January 2021, when market capitalization was 
+
 * How is your company performing relative to competitors in the same domain?
 ​
 ​
 ## Recommendations
-​
-* Stable borrowing rate product, similar to that offered by AAVE.com. 
-​
-* Why do you think that offering this product or service would benefit the company?
-​
+ 
+ <P>Terra should look at its competiros across all chains and mirror the unique features that make each stand out. They should also incentivize developers the specifically target those unique features and being them to the Terra eco system. This could be done with targeted marketing and special reward incentives for specific projects. This will combine market driven competitiion with guideance from Terra to drive innovations they would like to provide for their users.
+  
+  <p>Specific recommendations include the following
+
+**Offer a stable borrowing rate product, similar to that offered by AAVE.com.**
+ 
+ * Stability in any financial product will always be desireable. A stable interest rate on a stable coin will provide instant value in a market of users that get value from Terra's other products and features.
+   
+  **Make certain to have a strong, experienced regulation and compliance department early and make it a high priority to be in compliance in every aspect of the business.** In finance, not heeding a country's regulations can lead to severe complications, fines and the possibility of being banned from doing business. The better strategy would be to make the investment upfront to be in compliance to avoid a possible total loss of investment resulting from a shutdown of the business in a market.
+   
+  **Consider offering a crypto based debit and/or credit card**
+   
+   * People will always value a higher degree of access to their money. In finance, since regulations and consumer protections are of high importance the developement and issuance of such cards would likely have a long timeline. Factors that would lead to this are regulatory approval, security screening and customer screening. It may actually be useful for Terra to go through the steps in considering a physical card even if the conculsion is the costs and risks outweigh potential benefits. 
+   
+ **Consider additional marketing strategies and advertisement to gain market share**
+   
+   * It appears TerraUSD does not have a strong presence on Facebook and low interaction on Twitter. They should use those and other social media platforms to gain attention and drive more adoption of their products. The benefits to higher market share are the attraction not only of customers, but talent in the form of employees and third party developers. Considering the amount of data publicly available programs to search for people to direct target marketing campaigns would have a high amount of utility. Also, 
+
+
 * What technologies would this additional product or service utilize?
-​
+
 * Why are these technologies appropriate for your solution?
 
 
@@ -107,6 +129,8 @@ https://www.investopedia.com/terms/p/proof-work.asp
 https://money.usnews.com/investing/articles/the-history-of-bitcoin
 
 https://cryptobriefing.com/latest-tether-report-says-usdt-is-10-backed-by-cash/
+ 
+https://nexo.io/borrow
 
 
 
