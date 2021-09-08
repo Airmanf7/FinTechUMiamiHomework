@@ -4,11 +4,11 @@
 
 ## Overview and Origin
 
+<img src="https://s2.coinmarketcap.com/static/img/coins/200x200/7129.png"
+     title="Terra Logo" width="200" height="200"
+     />
+
 ### Name of business: Terra
-
-
-<img src="https://rbf.capital/app/uploads/terra-blog-uvodni.png"
-     title="Terra Logo" width="200" height="100" />
 
 #### Project within Terra: TerraUSD, Stablecoin symbol: UST
 
