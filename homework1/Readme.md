@@ -6,6 +6,10 @@
 
 ### Name of business: Terra
 
+
+<img src="https://rbf.capital/app/uploads/terra-blog-uvodni.png"
+     title="Terra Logo" width="200" height="100" />
+
 #### Project within Terra: TerraUSD, Stablecoin symbol: UST
 
 ##### Brief description of project: Website offering services based around a crypto stable coin pegged to the fiat US doller.
