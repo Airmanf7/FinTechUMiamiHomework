@@ -96,11 +96,13 @@
  
  * Stability in any financial product will always be desireable. A stable interest rate on a stable coin will provide instant value in a market of users that get value from Terra's other products and features.
    
-  **2. Make certain to have a strong, experienced regulation and compliance department early and make it a high priority to be in compliance in every aspect of the business.** In finance, not heeding a country's regulations can lead to severe complications, fines and the possibility of being banned from doing business. The better strategy would be to make the investment upfront to be in compliance to avoid a possible total loss of investment resulting from a shutdown of the business in a market.**
+**2. Make certain to have a strong, experienced regulation and compliance department early and make it a high priority to be in compliance in every aspect of the business.** 
+      
+ * In finance, not heeding a country's regulations can lead to severe complications, fines and the possibility of being banned from doing business. The better strategy would be to make the investment upfront to be in compliance to avoid a possible total loss of investment resulting from a shutdown of the business in a market.
    
   **3. Consider offering a crypto based debit and/or credit card**
    
-   * People will always value a higher degree of access to their money. In finance, since regulations and consumer protections are of high importance the developement and issuance of such cards would likely have a long timeline. Factors that would lead to this are regulatory approval, security screening and customer screening. It may actually be useful for Terra to go through the steps in considering a physical card even if the conculsion is the costs and risks outweigh potential benefits. 
+   * People will always value a higher degree of access to their money. In finance, regulation, compliance and consumer protections are of high importance by governing bodies that grant approval to offer goods and services to the public. Therefore the developement and issuance of such cards would likely have a long timeline due to the administration and approval processes that would be required. It may actually be useful for Terra to go through the steps in considering a physical card even if the conculsion is the costs and risks outweigh potential benefits. 
    
  **4. Consider additional marketing strategies and advertisement to gain market share**
    
