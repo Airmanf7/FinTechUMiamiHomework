@@ -1,0 +1,8 @@
+Final Results
+__________________
+ 
+The total of months is 86
+The total profit is $38,382,578
+The average change is $-2,315.12
+The greatest increase in profits is Feb-2012: $1,926,159
+The greatest increase in profits is Sep-2013: $-2,196,167
